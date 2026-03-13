@@ -2,7 +2,15 @@ degree-verification.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8"><!DOCTYPE html>
+<html>
+<head>
+  <title>Degree Verification</title>
+</head>
+<body>
+  <h1>Degree Verification Project</h1>
+</body>
+</html>
   <title>Degree Verification – Northern University Bangladesh</title>
   <style>
     body { font-family: Arial, sans-serif; background: #f8f9fa; margin: 0; padding: 0; }
